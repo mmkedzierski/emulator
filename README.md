@@ -1,7 +1,8 @@
 # Notes
 
 Mapping of registers:
-IP -> ESI
-SP -> EDI
-BP -> [REG_BP]
+
+- IP -> ESI
+- SP -> EDI
+- BP -> [REG_BP]
 
